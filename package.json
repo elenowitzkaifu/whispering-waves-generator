@@ -1,0 +1,29 @@
+{
+  "name": "whispering-waves-generator",
+  "version": "2.0.1",
+  "description": "Generate soothing wave animations with pure CSS for background effects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elenowitzkaifu/whispering-waves-generator"
+  },
+  "keywords": [
+    "waves",
+    "css-animation",
+    "background",
+    "soothing",
+    "generator"
+  ],
+  "author": "Rowan Hartley",
+  "license": "ISC",
+  "dependencies": {
+    "css-animation": "^2.3.2",
+    "sass": "^1.32.8",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "postcss-cli": "^8.3.1"
+  }
+}
